@@ -423,7 +423,7 @@ Note: Communicate with your teammate that is working on the first API story to m
 #### Linkedins: 
 
 - Reilly Miller  [LinkedIn Profile](https://www.linkedin.com/in/reilly-miller-6b6131266/)
-- Brandon Johnson [LinkedIn Profile](https://www.linkedin.com/in/brandon-j-94b740b2/)
+- Brandon Johnson [LinkedIn Profile](https://www.linkedin.com/in/brenicillin/)
 - Dyson Breakstone [Linkedin Profile](https://www.linkedin.com/in/dyson-breakstone-4978291a2/)
 - Andrew Bingham [LinkedIn Profile](https://www.linkedin.com/in/andrew-bingham1/)
 
